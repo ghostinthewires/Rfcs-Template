@@ -1,4 +1,4 @@
-# Rfcs-Template
+# RFC's-Template
 
 This is an extension of the Team Handbook Template but can be used on its own.
 
